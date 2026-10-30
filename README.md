@@ -56,7 +56,3 @@ The node uses:
 Apache-2.0. See `src/robot/package.xml` for details.
 
 ---
-
-## 👤 Author
-
-**Sparsh Agarwal** — [GitHub](https://github.com/sparsh0106) · [LinkedIn](https://www.linkedin.com/in/sparsh-agarwal-4b443b304/)
